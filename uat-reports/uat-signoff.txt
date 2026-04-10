@@ -1,0 +1,2 @@
+UAT: uipath-inventory-sync STAGE
+Status: PENDING APPROVAL
