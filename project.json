@@ -1,0 +1,1 @@
+{"name":"uipath-inventory-sync","projectVersion":"1.0.0","description":"UiPath RPA bot for uipath-inventory-sync","targetFramework":"Portable","dependencies":{"UiPath.System.Activities":"[23.10.3]","UiPath.UIAutomation.Activities":"[23.10.4]"}}
